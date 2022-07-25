@@ -2,6 +2,7 @@
 "hello world" with weather module - cmd line, uses http connection
 
 Displays current temperature in Kelvin for the given location.
+Uses http connection and json data transmission from a 3rd party service.
 
 ## Instructions:
 1. Register at `https://home.openweathermap.org/` to get your OpenWeather API Key. In the file `server.go`, replace `<YOUR_API_KEY>` with your actual API Key. Or contact me to get one.
